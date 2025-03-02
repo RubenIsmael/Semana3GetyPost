@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Semana_3.Models.HabitacionModel>
+
+<h2>Lista de Habitaciones</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Número de Habitación</th>
+            <th>Tipo</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var habitacion in Model)
+        {
+            <tr>
+                <td>@habitacion.NumeroHabitacion</td>
+                <td>@habitacion.Tipo</td>
+                <td>@habitacion.Estado</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", new { id = habitacion.IdHabitacion })">Editar</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", new { id = habitacion.IdHabitacion })">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="@Url.Action("Create")">Agregar Habitación</a>

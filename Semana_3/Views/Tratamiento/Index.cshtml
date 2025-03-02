@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Semana_3.Models.TratamientoModel>
+
+<h2>Lista de Tratamientos</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Descripción</th>
+            <th>Fecha</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tratamiento in Model)
+        {
+            <tr>
+                <td>@tratamiento.Descripcion</td>
+                <td>@tratamiento.Fecha.ToShortDateString()</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Edit", new { id = tratamiento.IdTratamiento })">Editar</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", new { id = tratamiento.IdTratamiento })">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="@Url.Action("Create")">Agregar Tratamiento</a>

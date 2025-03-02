@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\tratamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\enfermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\enfermerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\enfermero\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\enfermero\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\enfermero\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\enfermero\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\enfermero\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\enfermero\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\enfermero\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\enfermero\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\models\\enfermeromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:models\\enfermeromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\migrations\\20250301181020_semana3deber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:migrations\\20250301181020_semana3deber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\migrations\\get_postdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:migrations\\get_postdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\habitacion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\habitacion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\tratamiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\tratamiento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\tratamiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\tratamiento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\tratamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\tratamiento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\tratamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\tratamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\habitacion\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\habitacion\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\habitacion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\habitacion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\models\\habitacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:models\\habitacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\paciente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\paciente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\paciente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\paciente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\paciente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\paciente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\paciente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\paciente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\semana_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:semana_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\data\\get_postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:data\\get_postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|c:\\users\\hpone\\source\\semana_3_verdesoto\\semana_3\\models\\tratamientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2261D2-680E-4378-83BA-2EB1947045D9}|Semana_3.csproj|solutionrelative:models\\tratamientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enfermero\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Enfermero\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:23:51.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enfermero\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Create.cshtml",
+              "RelativeToolTip": "Views\\Enfermero\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:17:29.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enfermero\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Enfermero\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:23:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Enfermero\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Enfermero\\Index.cshtml",
+              "RelativeToolTip": "Views\\Enfermero\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswB8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:16:11.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnfermeroController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\EnfermeroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnfermeroController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\EnfermeroController.cs",
+              "RelativeToolTip": "Controllers\\EnfermeroController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:40:10.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:24:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:48:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TratamientoController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\TratamientoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TratamientoController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\TratamientoController.cs",
+              "RelativeToolTip": "Controllers\\TratamientoController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:17:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnfermeroModel.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\EnfermeroModel.cs",
+              "RelativeDocumentMoniker": "Models\\EnfermeroModel.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\EnfermeroModel.cs",
+              "RelativeToolTip": "Models\\EnfermeroModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:32:16.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:13:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:11:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:16:18.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\HabitacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\HabitacionController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:11:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:12:02.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:21:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250301181020_Semana3Deber.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Migrations\\20250301181020_Semana3Deber.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301181020_Semana3Deber.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Migrations\\20250301181020_Semana3Deber.cs",
+              "RelativeToolTip": "Migrations\\20250301181020_Semana3Deber.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:10:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Get_PostDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Migrations\\Get_PostDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\Get_PostDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Migrations\\Get_PostDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\Get_PostDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:46:35.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:39:16.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tratamiento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Create.cshtml",
+              "RelativeToolTip": "Views\\Tratamiento\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:19:25.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T15:04:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tratamiento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tratamiento\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:19:52.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tratamiento\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Tratamiento\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:20:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Create.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:30:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-01T21:32:33.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-01T21:32:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tratamiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Tratamiento\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tratamiento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:18:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:15:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:16:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Habitacion\\Index.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T21:13:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Paciente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Paciente\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:29:18.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Paciente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Paciente\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:28:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Paciente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Create.cshtml",
+              "RelativeToolTip": "Views\\Paciente\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:28:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Paciente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Paciente\\Index.cshtml",
+              "RelativeToolTip": "Views\\Paciente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:27:46.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reporte\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T18:22:48.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HabitacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\HabitacionModel.cs",
+              "RelativeDocumentMoniker": "Models\\HabitacionModel.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\HabitacionModel.cs",
+              "RelativeToolTip": "Models\\HabitacionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:37:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PacienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\PacienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\PacienteModel.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\PacienteModel.cs",
+              "RelativeToolTip": "Models\\PacienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:36:32.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Semana_3.csproj",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Semana_3.csproj",
+              "RelativeDocumentMoniker": "Semana_3.csproj",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Semana_3.csproj",
+              "RelativeToolTip": "Semana_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T18:12:42.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Get_PostDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Data\\Get_PostDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Get_PostDbContext.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Data\\Get_PostDbContext.cs",
+              "RelativeToolTip": "Data\\Get_PostDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:34:46.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TratamientoModel.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\TratamientoModel.cs",
+              "RelativeDocumentMoniker": "Models\\TratamientoModel.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Semana_3_verdesoto\\Semana_3\\Models\\TratamientoModel.cs",
+              "RelativeToolTip": "Models\\TratamientoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:33:29.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
